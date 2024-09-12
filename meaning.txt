@@ -1,0 +1,11 @@
+- enter departure and arrival locations
+- choose date, time and seat
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- view list of buses
+- a bus should have and arrival and departure location allocated to it
+- a bus should have the time of travel
+- a bus should have the avialable number of seats
+- should have the price per ticket
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+- choose his avialable seat 
+-view the booked and unbooked seats
